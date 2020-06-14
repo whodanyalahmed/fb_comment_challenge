@@ -22,8 +22,7 @@ for x in ins:
 #then key here move to mobile version as that doesn't support javascript
 browser.get('https://m.facebook.com')
 el = browser.find_element_by_name('query')
-el.send_keys('antony white')
-el.send_keys(Keys.ENTER)
+el.send_keys('antony white')el.send_keys(Keys.ENTER)
 sleep(3)
 
 temp= ''
