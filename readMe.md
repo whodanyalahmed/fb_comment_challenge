@@ -9,6 +9,8 @@ and make sure you have a latest version of python installed after setting up eve
 
 It will install latest version of selenium on your pc.
 
+after that you need to find your chrome version and google chromedriver for your chrome compatible version and store it to **Driver** folder if you want to use in linux too then also download for linux too..I have already downlaoded **chromedriver v.83**.
+
 ## Support and Running program
 
 This program support both linux and windows to run this you need to open terminal or cmd in a folder where is **app.py** is present after opening cmd/terminal you have to type:
